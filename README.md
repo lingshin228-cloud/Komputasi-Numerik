@@ -1,7 +1,7 @@
 ---
-
-## 👤 Identitas Penyusun
-
+title: "Komputasi Numerik"
+author: "Ardiansyah Wahyu Hartono"
+---
 | Keterangan | Informasi |
 | :--- | :--- |
 | **Nama Mahasiswa** | Ardiansyah Wahyu Hartono |
